@@ -1,4 +1,3 @@
-import Image from 'next/image'
 
 export default function Home() {
   return (
@@ -110,7 +109,7 @@ export default function Home() {
     //   </div>
     // </main>
     <main>
-      <h2>gg</h2>
+      <h2>gggg</h2>
     </main>
   )
 }
